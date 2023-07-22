@@ -8,7 +8,7 @@ dataSources:
     source:
       address: "0x0dF0a59947E598D08e71a59f287B40e51a108D4D"
       abi: SciWeaver
-      startBlock: 0
+      startBlock: 185813
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.7
